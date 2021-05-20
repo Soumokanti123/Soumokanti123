@@ -7,3 +7,4 @@ I'm fun to worrk, I always like to learn new things from others as much as helpi
  
 [![GitHub followers](https://img.shields.io/github/followers/Soumokanti123?style=social)](https://www.github.com/Soumokanti123)
 [![Linkedin Badge](https://img.shields.io/badge/-SoumokantiB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/soumokanti-bera-3882611a1//)]
+[![Medium](https://img.shields.io/badge/-Soumokanti-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.instagram.com/soumo_bera/)]
