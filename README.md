@@ -5,7 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumokanti123" alt="soumokanti123" /></a> </p>
 
+
 ##
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +21,7 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
 </p>
+
 ##
 
 <h3 align="left">Languages and Tools:</h3>
