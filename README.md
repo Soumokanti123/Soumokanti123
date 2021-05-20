@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumokanti</h1>
 <h3 align="center">A passionate Software student developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumokanti123&label=Profile%20views&color=0e75b6&style=flat" alt="soumokanti123" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=soumokanti123&label=Profile%20views&color=0e75b6&style=flat" alt="soumokanti123" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumokanti123" alt="soumokanti123" /></a> </p>
 
@@ -11,13 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
+    <a href="https://www.facebook.com/soumo.bera.79" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/soumokanti-bera-3882611a1/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/soumo_bera/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
 </p>
@@ -45,8 +45,8 @@
 
 ##
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumokanti123&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="soumokanti123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumokanti123&show_icons=true&locale=en&layout=compact&theme=dark" alt="soumokanti123" /></p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumokanti123&show_icons=true&locale=en&theme=highcontrast" alt="soumokanti123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumokanti123&show_icons=true&locale=en&theme=dark" alt="soumokanti123" /></p>
 </br>
