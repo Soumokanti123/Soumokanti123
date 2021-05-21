@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumokanti</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumokanti123&label=Profile%20views&color=0e75b6&style=flat" alt="Soumokanti123" /> </p>
 
-[<img src="https://my.visme.co/view/mxzwr168-untitled-project#s1" alt="👋 Hi there! I'm Soumo" title="👋 Hi there! I'm Soumokanti"/>]
+[<img src="https://my.visme.co/view/mxzwr168-voql9ke7401k2x1w" alt="👋 Hi there! I'm Soumo" title="👋 Hi there! I'm Soumokanti"/>]
 
 <h3 align="center">A passionate Software student developer from India</h3>
 
