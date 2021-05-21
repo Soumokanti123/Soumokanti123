@@ -1,6 +1,5 @@
 ![image](Calm-Sea-LinkedIn-Header.jpg) <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumokanti123&label=Profile%20views&color=0e75b6&style=flat" alt="Soumokanti123" /> </p>
 
-![image](Calm-Sea-LinkedIn-Header.jpg)
 
 <h3 align="center">A passionate Student Software developer from India</h3>
 
@@ -8,8 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Soumokanti123&theme=onedark)](https://github.com/Soumokanti123/github-profile-trophy)
 
-# This is My Profile portfolio (Short Animated Video)
-[!video](https://drive.google.com/drive/u/0/my-drive)
+# This is My Video Portfolio Link(Short Animated Video)
+(https://drive.google.com/file/d/13o6xiPf2lmi3BrHgmSw0ro-xCT3XD65k/view?usp=sharing)
 
 ##
 
