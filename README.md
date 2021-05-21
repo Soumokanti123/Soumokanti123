@@ -5,7 +5,9 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Soumokanti123&theme=onedark)](https://github.com/Soumokanti123/github-profile-trophy)
+[![trophy]<p align="center">(https://github-profile-trophy.vercel.app/?username=Soumokanti123&theme=onedark)](https://github.com/Soumokanti123/github-profile-trophy)</p>
+
+##
 
 # This is My Video Portfolio Link(Short Animated Video)
 (https://drive.google.com/file/d/13o6xiPf2lmi3BrHgmSw0ro-xCT3XD65k/view?usp=sharing)
