@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software student developer from India</h3>
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Soumokanti123&theme=onedark&align=center)](https://github.com/Soumokanti123/github-profile-trophy)
-
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Soumokanti123&theme=onedark)](https://github.com/Soumokanti123/github-profile-trophy)
+</p>
 
 
 ##
