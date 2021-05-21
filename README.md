@@ -19,7 +19,7 @@
             src="file:///D:/Android/facebook-logo.svg" alt="facebook" height="30"
             width="40" /> <i class="bi bi-facebook"></i></a>
     <a href="https://www.linkedin.com/in/soumokanti-bera-3882611a1/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
+            src="https://github.com/Soumokanti123/Soumokanti123/blob/main/linkedin.png" alt="linkedin" height="30"
             width="40" /></a>
     <a href="https://www.instagram.com/soumo_bera/" target="blank"><img align="center"
             src="https://github.com/Soumokanti123/Soumokanti123/blob/main/instagram.svg" alt="instagram" height="30"
