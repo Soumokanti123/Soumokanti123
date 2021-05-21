@@ -2,7 +2,7 @@
 
 ![video](PUO2UN5PEYX99QNT.mp4)
 
-<h3 align="center">A passionate Software student developer from India</h3>
+<h3 align="center">A passionate Student Software developer from India</h3>
 
 
 
