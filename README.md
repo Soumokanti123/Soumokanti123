@@ -5,7 +5,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Soumokanti123&theme=dark)](https://github.com/Soumokanti123/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Soumokanti123&theme=onedark)](https://github.com/Soumokanti123/github-profile-trophy)
 
 ##
 
