@@ -12,7 +12,7 @@
 # This is My Video Portfolio Link(Short Animated Video)
 <p align="center">
     <a href="https://drive.google.com/file/d/13o6xiPf2lmi3BrHgmSw0ro-xCT3XD65k/view?usp=sharing" target="blank"><img align="center"
-            src="https://github.com/Soumokanti123/Soumokanti123/blob/main/facebook-logo.svg" alt="facebook" height="30"
+            src="https://github.com/Soumokanti123/Soumokanti123/blob/main/googleDrive.png" alt="facebook" height="30"
             width="40" /> 
  </p>
 
