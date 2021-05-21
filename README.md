@@ -10,7 +10,12 @@
 ##
 
 # This is My Video Portfolio Link(Short Animated Video)
-(https://drive.google.com/file/d/13o6xiPf2lmi3BrHgmSw0ro-xCT3XD65k/view?usp=sharing)
+<p align="center">
+    <a href="https://drive.google.com/file/d/13o6xiPf2lmi3BrHgmSw0ro-xCT3XD65k/view?usp=sharing" target="blank"><img align="center"
+            src="https://github.com/Soumokanti123/Soumokanti123/blob/main/facebook-logo.svg" alt="facebook" height="30"
+            width="40" /> 
+ </p>
+
 
 ##
 
@@ -19,7 +24,7 @@
 <p align="center">
     <a href="https://www.facebook.com/soumo.bera.79" target="blank"><img align="center"
             src="https://github.com/Soumokanti123/Soumokanti123/blob/main/facebook-logo.svg" alt="facebook" height="30"
-            width="40" /> <i class="bi bi-facebook"></i></a>
+            width="40" /> 
     <a href="https://www.linkedin.com/in/soumokanti-bera-3882611a1/" target="blank"><img align="center"
             src="https://github.com/Soumokanti123/Soumokanti123/blob/main/linkedin.png" alt="linkedin" height="30"
             width="40" /></a>
