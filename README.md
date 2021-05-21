@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumokanti</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=Soumokanti123&label=Profile%20views&color=0e75b6&style=flat" alt="Soumokanti123" /> </p>
+<h1 align="center">Hi 👋, I'm Soumokanti</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumokanti123&label=Profile%20views&color=0e75b6&style=flat" alt="Soumokanti123" /> </p>
 
 <h3 align="center">A passionate Software student developer from India</h3>
 
