@@ -10,11 +10,11 @@
 ##
 
 
-<h3>This is My Video Portfolio Link(Short Animated Video)</h3>
+<h2>This is My Video Portfolio Link(Short Animated Video):</h2>
 <p align="center">
     <a href="https://drive.google.com/file/d/13o6xiPf2lmi3BrHgmSw0ro-xCT3XD65k/view?usp=sharing" target="blank"><img align="center"
             src="https://github.com/Soumokanti123/Soumokanti123/blob/main/Google-drive-logo-design-on-transparent-background-PNG.png" alt="facebook" height="100"
-            width="150" /> 
+            width="100" /> 
  </p>
 
 
