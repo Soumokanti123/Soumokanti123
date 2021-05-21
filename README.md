@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://www.facebook.com/soumo.bera.79" target="blank"><img align="center"
-            src="<img src="https://img.icons8.com/nolan/50/facebook-new.png"/>" alt="facebook" height="30"
+            src="<img src="https://img.icons8.com/nolan/50/facebook-new.png" alt="facebook" height="30"
             width="40" /></a>
     <a href="https://www.linkedin.com/in/soumokanti-bera-3882611a1/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
