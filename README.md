@@ -32,7 +32,7 @@
     <a href="https://www.instagram.com/soumo_bera/" target="blank"><img align="center"
             src="https://github.com/Soumokanti123/Soumokanti123/blob/main/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
-    <a href="https://www.instagram.com/soumo_bera/" target="blank"><img align="center"
+    <a href="https://twitter.com/SoumokantiB" target="blank"><img align="center"
             src="https://github.com/Soumokanti123/Soumokanti123/blob/main/twitter.svg" alt="twitter" height="30"
             width="40" bg="blue"/></a>
 </p>
