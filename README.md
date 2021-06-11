@@ -85,5 +85,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumokanti123&show_icons=true&locale=en&layout=compact&theme=dark" alt="soumokanti123" /></p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumokanti123&show_icons=true&locale=en&theme=dark" alt="soumokanti123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumokanti123&show_icons=true&locale=en&theme=radical" alt="soumokanti123" /></p>
 </br>
