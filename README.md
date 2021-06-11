@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/ommiy2j/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/Soumokanti123/count.svg" alt="" /></td>
   </tr>
 </table>
 
