@@ -1,10 +1,5 @@
 ![image](Calm-Sea-LinkedIn-Header.jpg) <p align="center"> <img src="https://komarev.com/ghpvc/?username=Soumokanti123&label=Profile%20views&color=0e75b6&style=flat" alt="Soumokanti123" /> </p>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Soumokanti123/count.svg" alt="" /></td>
-  </tr>
-</table>
+
 
 
 <h3 align="center">A passionate Student Software developer from India</h3>
