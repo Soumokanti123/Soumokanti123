@@ -59,7 +59,7 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   
 ### My Coding Platform Ids:
-<p>
+<p align="center">
 <a href="https://www.codechef.com/users/imkashyap/" title='Codechef'>
     <img align="left" alt="Rahul Kashyap's Codechef" width="32px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
