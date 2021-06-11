@@ -62,20 +62,20 @@
  
 ### My Coding Platform Ids:
 <p align="center">
-<a href="https://www.codechef.com/users/imkashyap/" title='Codechef'>
-    <img align="center" alt="Rahul Kashyap's Codechef" width="32px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
+<a href="https://www.codechef.com/users/soumokanti_123" title='Codechef'>
+    <img align="center" alt="Soumokanti Bera's Codechef" width="32px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
-<a href="hhttps://codeforces.com/profile/imkashyap" title='Codeforcs'>
-    <img align="center" alt="Rahul Kashyap's Codeforces" width="32px" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" />
+<a href="https://codeforces.com/profile/Soumokanti" title='Codeforcs'>
+    <img align="center" alt="Soumokanti Bera's Codeforces" width="32px" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" />
 </a>
-<a href="https://leetcode.com/imkashyap/" title='Leetcode'>
-    <img align="center" alt="Rahul Kashyap's Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />
+<a href="https://leetcode.com/Soumokanti123/" title='Leetcode'>
+    <img align="center" alt="Soumokanti Bera's Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />
 </a>
-<a href="https://www.hackerrank.com/imkashyap" title='Hackerrank'>
-    <img align="center" alt="Rahul Kashyap's hackerrank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
+<a href="https://www.hackerrank.com/soumokanti2025" title='Hackerrank'>
+    <img align="center" alt="Soumokanti Bera's hackerrank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/imkashyap/practice/" title='GFG'>
-    <img align="center" alt="Rahul Kashyap's GFG" width="32px" src="https://store-images.s-microsoft.com/image/apps.55193.13510798887411929.8353f5f6-1e50-45c3-9d66-162b6c2bebd7.c01e4858-d5a3-4c02-8516-7825870e33c1" />
+<a href="https://auth.geeksforgeeks.org/user/soumokanti2025/practice/" title='GFG'>
+    <img align="center" alt="Soumokanti Bera's GFG" width="32px" src="https://store-images.s-microsoft.com/image/apps.55193.13510798887411929.8353f5f6-1e50-45c3-9d66-162b6c2bebd7.c01e4858-d5a3-4c02-8516-7825870e33c1" />
 </a></br>
 </p>
 
