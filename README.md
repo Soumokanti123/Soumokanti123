@@ -61,7 +61,8 @@
  
  ##
  
-### My Coding Platform Ids:
+<p align="center">
+ <h2 align="center">My Competitive Programming Rating</h2>
 <p align="center">
 <a href="https://www.codechef.com/users/soumokanti_123" title='Codechef'>
     <img align="center" alt="Soumokanti Bera's Codechef" width="32px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
