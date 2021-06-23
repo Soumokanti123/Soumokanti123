@@ -83,8 +83,10 @@
 
 ##
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumokanti123&show_icons=true&locale=en&layout=compact&theme=radical" alt="soumokanti123" /></p>
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumokanti123&show_icons=true&locale=en&theme=radical" alt="soumokanti123" /></p>
-</br>
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Soumokanti123&show_icons=true&theme=dark&hide_title=true)](https://github.com/Soumokanti123)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumokanti123&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Soumokanti123)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Soumokanti123&theme=dark)
+<hr>
