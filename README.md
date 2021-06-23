@@ -66,7 +66,7 @@
 <a href="https://www.codechef.com/users/soumokanti_123" title='Codechef'>
     <img align="center" alt="Soumokanti Bera's Codechef" width="32px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
-<a href="https://codeforces.com/profile/Soumokanti" title='Codeforcs'>
+<a href="https://codeforces.com/profile/Sprinler_soumo" title='Codeforcs'>
     <img align="center" alt="Soumokanti Bera's Codeforces" width="32px" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" />
 </a>
 <a href="https://leetcode.com/Soumokanti123/" title='Leetcode'>
